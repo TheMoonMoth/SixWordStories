@@ -1,5 +1,7 @@
 # SixWordStories
 
+![Home Page](https://raw.githubusercontent.com/themoonmoth/sixwordstories/tree/master/imgs/home.png)
+
 This project was a technical challenge for me to build a full-stack application that has an API, reads and writes data, and uses a library. The topic is something I have always been passionate about and I'm excited to get this app in the hands of users equally as excited about short fiction.
 
 Link to [front-end](https://sixwordstories.herokuapp.com/).
